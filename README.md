@@ -1,0 +1,2 @@
+# assets
+some resources storage
